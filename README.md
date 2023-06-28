@@ -1,8 +1,7 @@
 <details>
 
-<summary>Projeto em grupo de desenvolvimento de um jogo de perguntas e respostas baseado no jogo **Trivia** _(tipo um show do milhão americano)_ utilizando _React e Redux_,
-desenvolvendo suas funcionalidades de acordo com as demandas definidas em um quadro _Kanban_. </summary>
-
+Projeto em grupo de desenvolvimento de um jogo de perguntas e respostas baseado no jogo **Trivia** _(tipo um show do milhão americano)_ utilizando _React e Redux_,
+desenvolvendo suas funcionalidades de acordo com as demandas definidas em um quadro _Kanban_. 
 
 <strong>Na aplicação, a pessoa usuária poderá:</strong>
 
@@ -16,7 +15,7 @@ desenvolvendo suas funcionalidades de acordo com as demandas definidas em um qua
 </details>
 
 <details>
-  <summary><strong>:memo: Habilidades</strong></summary><br />
+<strong>:memo: Habilidades</strong><br />
 
   - Criação de um store Redux em aplicações React
 
